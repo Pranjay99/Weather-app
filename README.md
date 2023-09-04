@@ -1,6 +1,4 @@
 # Weather Predicting Android App
-<img src="![image](https://github.com/Pranjay99/Weather-app/assets/93260737/7911b39c-84a2-42ac-b40e-d78aecd6a737)
-" width="300" height="200">
 
 
 # Overview
